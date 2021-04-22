@@ -3,7 +3,7 @@
 <body>
 <!--Introductions-->
 <h1>9 Facts About Elephants</h1>
-<p>Where I got 15 facst about Elephants https://actionchange.org/</p>
+<p>Where I got 15 facst about Elephants https://actionchange.org/<ul>
 <!--9 Facts-->
 <ul>
 <li>Elephants are pregnant for a whopping 22 months. Longer than any other animal. That’s nearly 2 years!</li>
@@ -18,4 +18,3 @@
 </ul>
 </body>
 </html>
-
